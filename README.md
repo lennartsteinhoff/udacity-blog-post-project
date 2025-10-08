@@ -12,7 +12,7 @@ This projects analyses the salery distribution for Germany and the US for the st
 Data for 2025 can be found on stack overflow: https://survey.stackoverflow.co/
 
 # Enviroment setup
-Install enviorment: ```python -m venv .venv & source .venv/bin/active``` \
+Install enviorment: ```python -m venv .venv ; source .venv/bin/activate``` \
 Install dependecies: ```pip install -r requirements.txt``` \
 Run notebook: ```jupyter notebook stackoverflowdata.ipynb```
 
